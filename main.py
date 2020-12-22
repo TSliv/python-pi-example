@@ -1,6 +1,11 @@
-#!/usr/bin/python3
+#!/usr/bin/python3º
+
 def main(msg):
-	//Adding some new message
+<<<<<<< HEAD
+	#Adding some new message
+=======
+	#Print a message
+>>>>>>> origin/master
     	print(msg)
 
 main("Hello World")
